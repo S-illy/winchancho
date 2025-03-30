@@ -1,2 +1,3 @@
-# winchancho
-Cool GDI malware made in C# for fun
+> ⚠️ **Warning:**  
+> This project is for personal use only. The author is not responsible for any misuse or damage caused by its use...
+> Remember to try it on a virtual box
